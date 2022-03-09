@@ -1,0 +1,22 @@
+<?php
+return[
+  "hello gus" => 'bien venue',
+  "welcome" => 'WELCOME',
+    "offer name"=>"nom de produit est demande",
+    'Add Offer'=> 'ajoute ton poduit',
+    'Offer Name'=>'produi nom',
+    'Offer Price'=>'produit pris',
+    'Offer Details'=>'produit detaile',
+    'Save Offer'=>'ajoute',
+    'update Offer'=>'change',
+    'price required'=>'pris doit mette',
+    'details required'=>'detaile',
+    'name unique'=>'nom est no repete',
+    'operation'=>'OPERATION',
+    'update'=>'update',
+    'delete'=>'delete',
+    'update your offer'=>'Update Offer',
+    'name'=>'name_fr',
+    'price'=>'price_fr',
+    'details'=>'details_fr',
+    ];
